@@ -1,0 +1,9 @@
+title: Gregory McDaniel | Director, Cloud
+description: Live resume of Gregory McDaniel, a seasoned technology leader specializing in Cloud Architecture, AWS, and Developer Experience.
+theme: jekyll-theme-minimal
+author: Gregory McDaniel
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
